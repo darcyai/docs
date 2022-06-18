@@ -133,12 +133,14 @@ $font-size-lg:                $font-size-base * 1.25;
 $font-size-md:                $font-size-base * 1.125;
 $font-size-sm:                $font-size-base * 0.875;
 
+$font-weight-bold: 600;
+$font-weight-regular: 400;
+
 $line-height-base:            1.7;
 
 $headings-font-family:        null;
-$headings-font-weight:        600;
-
-$lead-font-weight:            400;
+$headings-font-weight:        $font-weight-bold;
+$lead-font-weight:            $font-weight-regular;
 
 // Spacing
 //
