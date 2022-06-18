@@ -357,7 +357,7 @@ button#doks-versions {
   }
 
   .algolia-autocomplete .algolia-docsearch-suggestion .algolia-docsearch-suggestion--subcategory-column {
-    font-weight: 400;
+    font-weight: $font-weight-regular;
   }
 
   .algolia-autocomplete .algolia-docsearch-suggestion .algolia-docsearch-suggestion--subcategory-column::after {

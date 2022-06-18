@@ -6,7 +6,7 @@
 .search-form label {
   @extend .form-group;
 
-  font-weight: 400;
+  font-weight: $font-weight-regular;
 }
 
 .search-form .search-field {

@@ -48,7 +48,7 @@
           color: #2c2c2c;
           font-size: 1em;
           line-height: 1.5;
-          font-weight: 600;
+          font-weight: $headings-font-weight;
           text-transform: uppercase;
         }
 
@@ -59,7 +59,7 @@
           -ms-flex-item-align: center;
           -ms-grid-row-align: center;
           align-self: center;
-          font-weight: 400;
+          font-weight: $font-weight-regular;
           font-size: 1em;
 
           &:any-link {
