@@ -111,6 +111,10 @@
         order: last;
       }
 
+      .logo-container {
+        text-align: center;
+      }
+
       .social-buttons {
         display: -webkit-box;
         display: -webkit-flex;
@@ -183,6 +187,10 @@
         .logo {
           order: unset;
           justify-self: end;
+        }
+
+        .logo-container {
+          text-align: end;
         }
 
         .social-buttons {
