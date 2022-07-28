@@ -81,3 +81,7 @@ spec:
             accessMode: rw
 
 ```
+
+{{<alert style="info">}}
+Note that AI Explorer collects [anonymous usage statistics](/docs/ai/anonymous-statistics.md).
+{{</alert>}}
